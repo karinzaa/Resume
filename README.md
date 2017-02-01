@@ -1,3 +1,5 @@
+![Imgur](http://i.imgur.com/zz7iqIM.png)
+
 # Resume
 
 ### C language taught by Kunha </n>
