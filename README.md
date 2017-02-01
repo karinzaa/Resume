@@ -1,8 +1,8 @@
 ![Imgur](http://i.imgur.com/zz7iqIM.png)
 
--------
+----------------
 |School project| 
--------
+----------------
 
 # Resume
 
